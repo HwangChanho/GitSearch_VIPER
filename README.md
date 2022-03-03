@@ -1,8 +1,8 @@
-# GitSearch_VIPER
+https://subdued-airmail-2fe.notion.site/VIPER-Pattern-76962098257f4e66a61c117ed03754ac
 
 # VIPER Pattern
 
-![VIPER_Pattern.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8d3aeb7-86ea-4b2e-b49e-411994ee898e/VIPER_Pattern.png)
+<img width="846" alt="VIPER_Pattern" src="https://user-images.githubusercontent.com/57205272/156643944-d278b95c-8388-4279-aa5c-13170b80978a.png">
 
 VIPER는 책임 분리의 원칙(SRP)을 기반으로 한다. 
 
@@ -66,13 +66,9 @@ Push/Pop, Present/Dismiss
 네트워크 통신을 위해 만들어지는 Codable struct들.
 > 
 
-## 연결 방법
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1563f30-9640-46c6-8c20-5d949c5db5b9/Untitled.png)
-
 ## 언제 VIPER를 사용할까?
 
-![VIPER.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25efccb3-55bf-420f-951a-a6d3f2fc3fd9/VIPER.png)
+![VIPER](https://user-images.githubusercontent.com/57205272/156643977-f23c63d9-4f69-4dc7-bc30-d59de7e98561.png)
 
 ## 장점
 
