@@ -1,4 +1,4 @@
-https://subdued-airmail-2fe.notion.site/VIPER-Pattern-76962098257f4e66a61c117ed03754ac
+발표자료: https://subdued-airmail-2fe.notion.site/VIPER-Pattern-76962098257f4e66a61c117ed03754ac
 
 # VIPER Pattern
 
